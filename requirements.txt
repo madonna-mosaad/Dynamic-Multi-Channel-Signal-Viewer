@@ -1,0 +1,15 @@
+# Third-party libraries
+numpy==2.0.2
+requests==2.32.3
+scipy==1.14.1
+pyqtgraph==0.13.7
+PyQt5==5.15.11
+matplotlib==3.10.0
+reportlab==4.2.5
+
+# Standard libraries (included with Python, not installable via pip)
+# os
+# warnings
+# tempfile
+# shutil
+# datetime

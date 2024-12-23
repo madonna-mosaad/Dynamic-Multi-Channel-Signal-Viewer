@@ -91,5 +91,5 @@ Below are screenshots of the application demonstrating its key features:
 
 ### **Contact**
 For any inquiries or feedback, please contact:
-- **Name**: Yassien Tawfik
-- **Email**: Yassien.m.m.tawfik@gmail.com
+- **Name**: Madonna Mosaad
+- **Email**: Madonna.Mosaad03@eng-st.cu.edu.eg

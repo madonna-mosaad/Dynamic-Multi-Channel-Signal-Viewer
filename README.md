@@ -56,7 +56,7 @@ Below are screenshots of the application demonstrating its key features:
 ### **Setup and Installation**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YassienTawfikk/Dynamic-Multi-Channel-Signal-Viewer.git
+   git clone https://github.com/madonna-mosaad/Dynamic-Multi-Channel-Signal-Viewer.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
@@ -84,9 +84,9 @@ Below are screenshots of the application demonstrating its key features:
 
 ### **Shout out to the team**
 
+- [Madonna Mosaad](https://github.com/madonna-mosaad)
 - [Yassien Tawfik](https://github.com/YassienTawfikk)
 - [Nancy Mahmoud](https://github.com/nancymahmoud1)
-- [Madonna Mosaad](https://github.com/madonna-mosaad)
 ---
 
 ### **Contact**
